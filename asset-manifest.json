@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anandj1/Testimonial-Page.git/static/css/main.63c8d755.css",
+    "main.js": "/anandj1/Testimonial-Page.git/static/js/main.978e1a65.js",
+    "index.html": "/anandj1/Testimonial-Page.git/index.html",
+    "main.63c8d755.css.map": "/anandj1/Testimonial-Page.git/static/css/main.63c8d755.css.map",
+    "main.978e1a65.js.map": "/anandj1/Testimonial-Page.git/static/js/main.978e1a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c8d755.css",
+    "static/js/main.978e1a65.js"
+  ]
+}
